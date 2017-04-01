@@ -8,3 +8,4 @@ Khoi Nguyen, group product manager for mobile security at Symantec, confirmed th
 "This is a similar type of attack as [is used on] a computer -- an SMS or MMS message that includes an attachment, disguised as a funny or sexy picture, which asks the user to open it," Nguyen explains. "Once they download the picture, it will install malware on the device. Once loaded, it would acquire access privileges, and it spreads through contacts on the phone, [who] would then get a message from that user."
 This is the thing i have edited
 I hope you see this
+hello hafsa :)
